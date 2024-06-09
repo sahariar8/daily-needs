@@ -52,3 +52,7 @@ pipenv install psycopg
 ```
   python manage.py createsuperuser
 ```
+### Data insert into db from shell
+```
+python manage.py shell
+```
