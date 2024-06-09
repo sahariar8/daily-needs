@@ -45,5 +45,10 @@
 ```
 
 ### for connect Django project with postgresql
-```pipenv install psycopg
+```
+pipenv install psycopg
+```
+### Create superUser(Admin) in django project
+```
+  python manage.py createsuperuser
 ```
