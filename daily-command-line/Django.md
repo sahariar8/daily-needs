@@ -1,6 +1,7 @@
 ### step 1.Vertual environment Create
-```pipenv shell
-```
+  ```
+    hh
+  ```
 
 ### step2.Django install
 ```pipenv install django
