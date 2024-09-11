@@ -1,0 +1,22 @@
+## want to access instance from my computer
+
+```
+ssh -i filename.pem ubuntu@public-ip
+```
+
+## Permission mode Change in .pem file
+
+```
+chmod 600 sahariar-key.pem
+```
+
+## Check Jenkins status
+
+```
+systemctl status jenkins
+```
+## Create password for access jenkins 
+
+```
+cat location path
+```
