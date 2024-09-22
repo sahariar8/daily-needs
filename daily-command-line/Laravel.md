@@ -24,3 +24,9 @@ php artisan migrate
 php artisan migrate:fresh
 ```
 
+### How can i delete recently created table
+
+```
+php artisan migrate:rollback
+```
+
