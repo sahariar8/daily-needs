@@ -19,3 +19,8 @@ sudo usermod -aG docker $USER
 ```
 newgrp docker
 ```
+### Restart cli after group add
+```
+sudo reboot
+```
+
